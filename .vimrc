@@ -88,3 +88,8 @@ inoremap ( ()<Esc>i
 inoremap [ []<Esc>i
 inoremap " ""<Esc>i
 inoremap ' ''<Esc>i
+set nofoldenable
+
+set clipoard=unnamedplus
+#Show cmd
+set showcmd
