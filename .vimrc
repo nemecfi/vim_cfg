@@ -90,5 +90,3 @@ inoremap " ""<Esc>i
 inoremap ' ''<Esc>i
 set nofoldenable
 
-#Show cmd
-set showcmd
